@@ -1,0 +1,2 @@
+# tbbbot.js
+botdiscord
